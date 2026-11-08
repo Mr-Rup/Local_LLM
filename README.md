@@ -1,4 +1,4 @@
-# LocalAI — Private LLM Workbench
+# Local LLM Workbench
 
 > **A lightweight, private workspace for local LLM inference, document intelligence, and performance benchmarking.**
 
